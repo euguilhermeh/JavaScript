@@ -1,6 +1,6 @@
-let nota1 = 4;
-let nota2 = 6;
-let nota3 = 7;
+let nota1 = x;
+let nota2 = x;
+let nota3 = x;
 
 const media = (nota1 + nota2 + nota3) /3;
 console.log (media);
