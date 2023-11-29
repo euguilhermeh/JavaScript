@@ -1,5 +1,5 @@
-let peso = 63;
-let altura = 1.75;
+let peso = xx;
+let altura = x.xx;
 
 IMC = peso / (altura * altura);
 console.log (IMC);
