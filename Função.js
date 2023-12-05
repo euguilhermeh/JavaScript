@@ -14,4 +14,4 @@ function VerificarIdade (idade) {
     }
 }
 
-VerificarIdade(16);
+VerificarIdade(xx);
